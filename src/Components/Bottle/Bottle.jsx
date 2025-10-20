@@ -1,18 +1,20 @@
 import React from 'react';
+import './Bottle.css'
 
-const Bottle = ({bottle}) => {
+const Bottle = ({bottle, handleAddToCart}) => {
     console.log(bottle);
-    const {brand, image} = bottle;
+    const {brand, image, price, inStock} = bottle;
     return (
-        <div>
-            <h3>Brand:{brand} </h3>
-            <img style={{
-                maxHeight: '400px',
-                maxWidth: '300px',
-                border: '2px solid olive',
-                padding: '10px',
-                margin: '10px',
-            }} src={image} alt="" />
+        <div className='card bottle'>
+            <img src={image} alt="" />
+            <h3 >Brand:{brand} </h3>
+            <h4 >${price}</h4>
+
+            {
+                inStock ? <p>Available ✅ </p> : <p>Stock out ❌ </p>
+            }
+
+            <button onClick={() => handleAddToCart(bottle)}>Buy Now</button>
         </div>
     );
 };
