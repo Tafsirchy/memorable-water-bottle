@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "brand": "Aquafina",
+    "size": "500ml",
+    "price": 20,
+    "material": "Plastic",
+    "inStock": true,
+    "image": "https://madeinoregon.com/cdn/shop/products/hydroflask_wide_mouth_indigo_32oz_535x.jpg?v=1744649852"
+  },
+  {
+    "id": 2,
+    "brand": "Kinley",
+    "size": "1L",
+    "price": 30,
+    "material": "Plastic",
+    "inStock": true,
+    "image": "https://oceanbottle.co/cdn/shop/products/OceanBottle_OG_Front_Ocean-Blue_2048px.jpg?v=1653562177&width=533"
+  },
+  {
+    "id": 3,
+    "brand": "Fiji Water",
+    "size": "750ml",
+    "price": 120,
+    "material": "Plastic",
+    "inStock": false,
+    "image": "https://www.hydroflask.com/media/catalog/product/cache/b2f1ce2dfe10d3d31bf2056bf6e0d10f/l/e/le-wt32n2-32-oz-wide-flex-straw-travel-bottle-ivory-neon-pink-straight_1.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "Evian",
+    "size": "1.5L",
+    "price": 150,
+    "material": "Plastic",
+    "inStock": true,
+    "image": "https://hips.hearstapps.com/hmg-prod/images/reusable-water-bottles-64b9a11549eb3.png?crop=0.437xw:0.874xh;0.279xw,0.0598xh&resize=1200:*"
+  },
+  {
+    "id": 5,
+    "brand": "Voss",
+    "size": "800ml",
+    "price": 200,
+    "material": "Glass",
+    "inStock": false,
+    "image": "https://eu.waterdrop.com/cdn/shop/files/All_Purpose_600ml_-_petrol_turquoise_pastel_matt_Loop_lid_black_matt_v2.png?v=1754297931&width=1200"
+  },
+  {
+    "id": 6,
+    "brand": "Bisleri",
+    "size": "1L",
+    "price": 25,
+    "material": "Plastic",
+    "inStock": true,
+    "image": "https://oceanbottle.co/cdn/shop/files/OceanBottle_Brew_Front_Ice-Blue_2048px.png?v=1729524193&width=720"
+  },
+  {
+    "id": 7,
+    "brand": "Nestlé Pure Life",
+    "size": "600ml",
+    "price": 22,
+    "material": "Plastic",
+    "inStock": true,
+    "image": "https://en.waterdrop.com/cdn/shop/files/All_Purpose_Ultralight_0.8_L_Brand_Green_-_Loop_Lid_Black_1.png?v=1712820571"
+  },
+  {
+    "id": 8,
+    "brand": "Smartwater",
+    "size": "1L",
+    "price": 140,
+    "material": "Plastic",
+    "inStock": false,
+    "image": "https://empire.co.tz/cdn/shop/files/900mlbottle-1.jpg?v=1751540831&width=533"
+  },
+  {
+    "id": 9,
+    "brand": "Tassay",
+    "size": "500ml",
+    "price": 35,
+    "material": "Plastic",
+    "inStock": true,
+    "image": "https://myborosil.com/cdn/shop/files/BVCRWDBKBSS1000EC_1.jpg"
+  },
+  {
+    "id": 10,
+    "brand": "Himalayan Natural Mineral Water",
+    "size": "1L",
+    "price": 90,
+    "material": "Glass",
+    "inStock": true,
+    "image": "https://market99.com/cdn/shop/files/plastic-water-bottle-420-ml-little-princess-glossy-finish-multicolor-water-bottles-1-29021837590698.jpg?crop=center&height=1403&v=1697012162&width=1080"
+  }
+]
